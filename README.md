@@ -1,15 +1,15 @@
 [![MasterHead](./images/masterhead.jfif)](https://github.com/djebby)
 
 <h1 align="center">Hi 👋, I'm Firas Djebby</h1>
-<h2 align="center">Junior Full-Stack Web Developer. :computer:</h2>
+<h2 align="center">Junior Full Stack Web Developer. :computer:</h2>
 <br>
 <br>
 <p><img align="right" src="./images/animation-for-readme.gif" alt="programmer gif" /></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=djebby&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=djebby)
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **ReactJS - NodeJS/ExpressJS - MongoDB - MySQL**
+- 💬 Ask me about **ReactJS - NodeJS/ExpressJS - MongoDB/MySQL**
 
 - 📄 More about me **[https://djebby.github.io/](https://djebby.github.io/)**
 
