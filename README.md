@@ -7,9 +7,9 @@
 <p><img align="right" src="./images/animation-for-readme.gif" alt="programmer gif" /></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=djebby)
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m permanently learning **algorithms and data structures**
 
-- 💬 Ask me about **ReactJS - NodeJS/ExpressJS - MongoDB/MySQL**
+- 💬 Ask me about **ReactJS/Angular - NodeJS/ExpressJS - MongoDB/MySQL**
 
 - 📄 More about me **[https://djebby.github.io/](https://djebby.github.io/)**
 
