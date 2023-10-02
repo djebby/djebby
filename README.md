@@ -1,4 +1,8 @@
-[![MasterHead](./images/masterhead.jfif)](https://github.com/djebby)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/djebby/djebby/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/djebby/djebby/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/djebby/djebby/blob/output/github-snake.svg" />
+</picture>
 
 <h1 align="center">Hi 👋, I'm Firas Djebby</h1>
 <h2 align="center">Junior Full Stack Web Developer. :computer:</h2>
